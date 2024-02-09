@@ -17,6 +17,7 @@
     border: none;
     background-color: rgb(116, 12, 214);
     border-radius: 3px;
+    cursor:pointer;
   }
   .Button1:hover{
     background-color: blueviolet;
